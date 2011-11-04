@@ -1,5 +1,0 @@
-Z:\VS2010\Projects\WordProcessingSerializer\PowerTools 2.2\bin\Debug\OpenXmlPowerTools.dll
-Z:\VS2010\Projects\WordProcessingSerializer\PowerTools 2.2\bin\Debug\OpenXmlPowerTools.pdb
-Z:\VS2010\Projects\WordProcessingSerializer\PowerTools 2.2\obj\Debug\ResolveAssemblyReference.cache
-Z:\VS2010\Projects\WordProcessingSerializer\PowerTools 2.2\obj\Debug\OpenXmlPowerTools.dll
-Z:\VS2010\Projects\WordProcessingSerializer\PowerTools 2.2\obj\Debug\OpenXmlPowerTools.pdb
