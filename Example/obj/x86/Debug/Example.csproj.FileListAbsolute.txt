@@ -1,0 +1,9 @@
+Z:\VS2010\Projects\WordProcessingSerializer\Example\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\VS2010\Projects\WordProcessingSerializer\Example\bin\Debug\Example.exe
+Z:\VS2010\Projects\WordProcessingSerializer\Example\bin\Debug\Example.pdb
+Z:\VS2010\Projects\WordProcessingSerializer\Example\bin\Debug\WordProcessingSerializer.dll
+Z:\VS2010\Projects\WordProcessingSerializer\Example\bin\Debug\WordProcessingSerializer.pdb
+Z:\VS2010\Projects\WordProcessingSerializer\Example\obj\x86\Debug\Example.exe
+Z:\VS2010\Projects\WordProcessingSerializer\Example\obj\x86\Debug\Example.pdb
+Z:\VS2010\Projects\WordProcessingSerializer\Example\bin\Debug\OpenXmlPowerTools.dll
+Z:\VS2010\Projects\WordProcessingSerializer\Example\bin\Debug\OpenXmlPowerTools.pdb
